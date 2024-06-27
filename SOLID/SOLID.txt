@@ -1,4 +1,4 @@
-Coupling : efers to the interaction between different physical phenomena (classes)
+Coupling : refers to the interaction between different physical phenomena (classes)
           high/tight coupling , loss coupling (much better)
 
 
